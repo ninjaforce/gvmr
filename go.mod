@@ -1,8 +1,8 @@
-module ninjaforce.github.io/gvm
+module ninjaforce.github.io/gvmr
 
 go 1.19
 
 replace (
-	ninjaforce.github.io/gvm/foo => ./foo
-	ninjaforce.github.io/gvm/v2 => ./v2
+	ninjaforce.github.io/gvmr/foo => ./foo
+	ninjaforce.github.io/gvmr/v2 => ./v2
 )
